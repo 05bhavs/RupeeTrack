@@ -41,7 +41,6 @@ Whether you’re saving for something big or just want to avoid overspending, th
 
 ### 📊 Features & Tools
 - **Recharts** — Display income vs expense trends
-- **OpenAI API** — (Optional) Get smart savings suggestions
 
 
 ---
@@ -53,6 +52,6 @@ Whether you’re saving for something big or just want to avoid overspending, th
 - 📈 **Visual Reports** using charts
 - 💾 **Persistent Storage** 
 - 🎯 **Clean, Responsive UI** optimized for all devices
-- 💡 (Optional) **AI Suggestions** to help budget smarter
+- 💡  **AI Suggestions** to help budget smarter
 
 ---
