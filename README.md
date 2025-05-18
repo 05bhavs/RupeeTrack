@@ -1,9 +1,9 @@
 # RupeeTrack
 RupeeTrack empowers you with intelligent, real-time financial tracking and insights to take control of your money
 A sleek, modern, and fully-featured "Personal Finance Tracker" built with React, Express, Firebase, Drizzle ORM, and Tailwind CSS. This application helps users 
-*track income and expenses 
-*visualize spending trends
-*stay in control of their finances — all in one place.
+Track income and expenses : 
+Visualize spending trends :
+Stay in control of their finances — all in one place.
 
 ---
 
